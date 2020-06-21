@@ -21,7 +21,7 @@ Jika ingin menggunakan db yang tersedia
     DB_CONNECTION=mysql
     DB_HOST=localhost
     DB_PORT=3306
-    DB_DATABASE=toba
+    DB_DATABASE=tobafinal
     DB_USERNAME=root
     DB_PASSWORD=
     ```
