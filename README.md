@@ -1,6 +1,6 @@
 1. Clone atau download source code
     - Pada terminal, clone repo https://github.com/yenicpanjaitan08/Dashboard-TobaHome-Fin
-    - atau `git clone 'https://github.com/yenicpanjaitan08/Dashboard-Admin-TobaHome'
+    - atau `git clone https://github.com/yenicpanjaitan08/Dashboard-TobaHome-Fin
     - Jika tidak menggunakan Git, silakan **Download Zip** dan *extract* pada direktori web server (misal: xampp/htdocs)
     
 2. `composer install`
